@@ -78,6 +78,6 @@ Si tu as des problemes, ou des questions. Commnence par relire et refaire le Rea
 
 💊 Doliprane non-fournie 
 
-Pour une meilleure absortion des concepts, une dose de Moraline couplé avec du Motivex le matin du workshop peut vous éviter une bonne migraine.
+Pour une meilleure absorption des concepts, une dose de Moraline couplé avec du Motivex le matin du workshop peut vous éviter une bonne migraine.
 
 😅
