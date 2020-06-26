@@ -6,7 +6,7 @@ Afin de gagner du temps le jour du workshop, il est préférable que tu arrives 
 ### GitHub
 
 Un compte github, pour le repo et les services annexes.
-Si c'est pas deja fait , créer ton compte [Github](https://github.com/)
+Si c'est pas deja fait, créer ton compte [Github](https://github.com/)
 
 ### Git
 
@@ -16,9 +16,9 @@ Comment [installer GIT](https://git-scm.com/book/fr/v2/D%C3%A9marrage-rapide-Ins
 
 ### Node
 
-Node instaler sur ta machine.
+Node installé sur ta machine.
 
-Pour le verifier 
+Pour le vérifier 
 
 ```bash
 node --version
@@ -71,12 +71,12 @@ npm install --global http-server
 
 ### Ready ? 
 
-Si tu as des problemes, ou des questions. Commnence par relire et refaire le Readme depuis le début, puis contact moi alexduval71@gmail.com si probleme persiste.
+Si tu as des problemes, ou des questions. Commnence par relire et refaire le Readme depuis le début, puis contact moi alexduval71@gmail.com si ton probleme persiste.
 
 
 ### ATTENTION !!! 
 
-💊 Doliprane non-fournie 
+💊 Doliprane non-fournie 💊
 
 Pour une meilleure absorption des concepts, une dose de Moraline couplé avec du Motivex le matin du workshop peut vous éviter une bonne migraine.
 
