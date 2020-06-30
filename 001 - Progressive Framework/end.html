@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta date="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vue 101</title>
+</head>
+
+<body>
+
+  <h1>Mon site réactif</h1>
+  <ul>
+    <li>item 1</li>
+    <li>item 2</li>
+    <li>item 3</li>
+
+  </ul>
+  <div id="app">
+
+    <!-- {{cool}} -->
+
+    <p>
+      Nous sommes le : {{date}}
+    </p>
+
+    <button @click="showDate">Afficher la date</button>
+
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/vue@2.6.0"></script>
+  <script>
+    var vm = new Vue({
+      date: "cool",
+      el: '#app',
+      // template: "<div>{{cool}}</div>",
+      data() {
+        return {
+          cool: "thing",
+          date: ''
+        }
+      },
+      methods: {
+        showDate() {
+          this.date = new Date()
+        }
+      }
+    })
+    Vue.config.devtools = true
+  </script>
+</body>
+
+</html>
