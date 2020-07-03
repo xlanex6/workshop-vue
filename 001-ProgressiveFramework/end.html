@@ -24,7 +24,7 @@
       Nous sommes le : {{date}}
     </p>
 
-    <button @click="showDate">Afficher la date</button>
+    <button @click="date = new Date()">Afficher la date</button>
 
   </div>
   <script src="https://cdn.jsdelivr.net/npm/vue@2.6.0"></script>
@@ -33,11 +33,10 @@
       date: "cool",
       el: '#app',
       // template: "<div>{{cool}}</div>",
-      data() {
-        return {
-          cool: "thing",
-          date: ''
-        }
+      data: {
+        cool: "thing",
+        date: ''
+
       },
       methods: {
         showDate() {
