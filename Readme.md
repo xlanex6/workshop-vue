@@ -45,6 +45,14 @@ Toutes les slides sont [en public a cette adresse](https://slides.com/alexduval/
   mission 1
 
   slide methods / computed / watch
+    methods
+      function pour modifier les data
+    computed
+        get / mais aussi SET c'est possible
+
+    watched 
+        REACTIVE, c'est meme la mission permiere , pas que CSS/html
+
 
   mission 2
 
