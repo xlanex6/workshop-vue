@@ -1,73 +1,26 @@
+# VUE WORKSHOP - Introduction a VUEjs
 
-Toutes les slides sont [en public a cette adresse](https://slides.com/alexduval/vue-intro-workshop/fullscreen)
+PRE-instalation
 
----
+[Préparer ton setup](https://github.com/xlanex6/workshop-vue/tree/502be52d0bce6b7efdb3fde2fbf3fa4166ab846b/000-Pr%C3%A9-requis-INSTALATION)
 
-## Vue
-### 001 progressif
-! + vue via cdn
-  progressif
-  instance de vue
-    vm pour la call depuis la console 
-    el 
-    data
-  cool thing 
-  handelbar
-  template string
-  date
-  data = obsersable / reactive
-  methods
-    function / ES6 / shortcut
-  this
-  exemple date
-  comparaison JS vanilla pure, rapide / facile
-  vue dev tools // minifier !
+### Clone le repo 
+```
+git clone https://github.com/xlanex6/workshop-vue.git
+```
+une petite ⭐ , ca fait plaise... 
 
-### 002 vue serve
+### SLIDES 
 
-  anatomie comp
-    template
-      one node
-      vba avec l'extension vetur
-    script 
-      name => dev tool 
-      export default
-        data => return
-    style //scoped
-      mon css 
-      sass / less / stylus / postcss
+[Slide](https://slides.com/alexduval/vue-intro-workshop)
 
+### Backup ordi / git 
 
-  slide directives
+[Repo CodeSandBox](https://codesandbox.io/dashboard/sandboxes/WorkShop)
 
-    
+[001](https://codesandbox.io/s/zen-bird-thl3b?file=/index.html)
+[002 Start](https://codesandbox.io/s/vue-intro-002-start-xiglc)
+[003 Start](https://codesandbox.io/s/003-cli-zeiy0)
+[004 Start](https://codesandbox.io/s/rough-microservice-kni4e)
 
-  mission 1
-
-  slide methods / computed / watch
-
-  mission 2
-
-
-### 003 vue cli 
-
-   slide comp parent / enfant
-
-  
-### nuxt 
-  initiatliser le projet nuxt avec tailwindcss
-
-  anatomie du projet
-    dir 
-    fonction 
-    nuxt.config.js 
-
-SLIDES NUXT 
-  SSG
-
-
-### vue 3 
-  beta => les fondamentaux reste les meme, et pas de casse sur la mise a jour.
-
-
-
+Signup / Login avec ton compte Github si tu veux save !
