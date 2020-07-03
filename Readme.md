@@ -1,14 +1,14 @@
 # VUE WORKSHOP - Introduction a VUEjs
 
-PRE-instalation
+Pré-config
 
-[Préparer ton setup](https://github.com/xlanex6/workshop-vue/tree/502be52d0bce6b7efdb3fde2fbf3fa4166ab846b/000-Pr%C3%A9-requis-INSTALATION)
+[Prépare ton setup](https://github.com/xlanex6/workshop-vue/tree/502be52d0bce6b7efdb3fde2fbf3fa4166ab846b/000-Pr%C3%A9-requis-INSTALATION)
 
 ### Clone le repo 
 ```
 git clone https://github.com/xlanex6/workshop-vue.git
 ```
-une petite ⭐ , ca fait plaise... 
+Une petite ⭐ , ca fait plaise... 
 
 ### SLIDES 
 
