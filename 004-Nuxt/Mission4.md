@@ -5,19 +5,19 @@
 ```
 npx create-nuxt-app .
 ```
-puis
-? Project name: 'Comme tu veux'
-? Programming language: `JavaScript`
-? Package manager: `Npm`
-? UI framework: `Tailwind CSS`
-? Nuxt.js modules: `NO`
-? Linting tools: `NO`
-? Testing framework: `None`
-? Rendering mode: `Single Page App`
-? Deployment target: `Server (Node.js hosting)`
-? Development tools: `NO`
-
-se placer dans le dossier et 
+puis  
+? Project name: 'Comme tu veux'  
+? Programming language: `JavaScript`  
+? Package manager: `Npm`  
+? UI framework: `Tailwind CSS`  
+? Nuxt.js modules: `NO`  
+? Linting tools: `NO`  
+? Testing framework: `None`  
+? Rendering mode: `Single Page App`  
+? Deployment target: `Server (Node.js hosting)`  
+? Development tools: `NO`  
+ 
+se placer dans le dossier et   
 
 ```
 npm run dev
@@ -39,4 +39,6 @@ index des `Users` et une page unique `User` basé sur son `_id`
 - Ajoutez des meta donnée a la page About, Users ( index) et user show ( -id): `title`, `description`
 
 ### DOCUMENTATION
+
+[Nuxt](https://nuxtjs.org/)
 
