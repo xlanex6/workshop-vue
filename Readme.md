@@ -16,11 +16,13 @@ une petite ⭐ , ca fait plaise...
 
 ### Backup ordi / git 
 
-[Repo CodeSandBox](https://codesandbox.io/dashboard/sandboxes/WorkShop)
+[Repo CodeSandBox](https://codesandbox.io/dashboard/sandboxes/WorkShop)  
 
-[001](https://codesandbox.io/s/zen-bird-thl3b?file=/index.html)
-[002 Start](https://codesandbox.io/s/vue-intro-002-start-xiglc)
-[003 Start](https://codesandbox.io/s/003-cli-zeiy0)
-[004 Start](https://codesandbox.io/s/rough-microservice-kni4e)
+--- 
+
+[001](https://codesandbox.io/s/zen-bird-thl3b?file=/index.html)  
+[002 Start](https://codesandbox.io/s/vue-intro-002-start-xiglc)  
+[003 Start](https://codesandbox.io/s/003-cli-zeiy0)  
+[004 Start](https://codesandbox.io/s/rough-microservice-kni4e)  
 
 Signup / Login avec ton compte Github si tu veux save !
